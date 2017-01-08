@@ -1,9 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 8, 2017 (Example 1)
+### Day 1: January 8, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Starting witg FCC API development projects, seting everithing up!
+ 
 
-**Thoughts:** 
+**Thoughts:** It was strugle to set up everithing, remind git commands and how ro set up node enviroment.
 
-**Link to work:** [Empty Link](#)
+**Link to work:** [Link](#)
