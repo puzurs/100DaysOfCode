@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.
 
-### This repo is copy of original [100-days-of-code](https://github.com/Kallaway/100-days-of-code) challenge which is made by [Alexander Kallawey](https://github.com/Kallaway)
+#### This repo is copy of original [100-days-of-code](https://github.com/Kallaway/100-days-of-code) challenge which is made by [Alexander Kallawey](https://github.com/Kallaway)
 
 ## Contents
 * [Rules](rules.md)
